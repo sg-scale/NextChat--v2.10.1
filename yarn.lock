@@ -2846,10 +2846,12 @@ elkjs@^0.8.2:
   resolved "https://registry.npmmirror.com/elkjs/-/elkjs-0.8.2.tgz#c37763c5a3e24e042e318455e0147c912a7c248e"
   integrity sha512-L6uRgvZTH+4OF5NE/MBbzQx/WYpru1xCBE9respNj6qznEewGUIfhzmm7horWWxbNO2M0WckQypGctR8lH79xQ==
 
-emoji-picker-react@^4.5.15:
-  version "4.5.15"
-  resolved "https://registry.yarnpkg.com/emoji-picker-react/-/emoji-picker-react-4.5.15.tgz#e12797c50584cb8af8aee7eb6c7c8fd953e41f7e"
-  integrity sha512-BTqo+pNUE8kqX8BKFTbD4fhlxcA69qfie5En4PerReLaaPfXVyRlDJ1uf85nKj2u5esUQ999iUf8YyqcPsM2Qw==
+emoji-picker-react@^5.1.4:
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/emoji-picker-react/-/emoji-picker-react-5.1.4.tgz#e369f6ba2a5a5943ef0df6c5fd13c41f0d8b81c8"
+  integrity sha512-kWBAgDCFPcRJrINeRE7/o7VAVNc0Yeg1n7gMHSvJ54qffidCV8Jdmeb9iEHkx1CtClzhnutCax8bQFDTHAbyTg==
+  dependencies:
+    shipstyles "1.0.0"
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -5484,6 +5486,11 @@ shebang-regex@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
+
+shipstyles@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/shipstyles/-/shipstyles-1.0.0.tgz#8fd95f4c095748a1a47086ea5ce447405d779531"
+  integrity sha512-1AcihfXo/mSxqeOdoKqq/5TNv+vSH0dBYPFq88PUX5FBkK5pRmY5TP9SuMNio85PQ+euUI67+KpSVk1cUVDCgA==
 
 side-channel@^1.0.4:
   version "1.0.4"
